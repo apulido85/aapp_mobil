@@ -10,10 +10,10 @@
 
 	<preference name="phonegap-version" value="cli-6.5.0" />
 
-    <name>nom del programa</name>
+    <name>Reprodutor MP3</name>
 
    <description>
-       Descripció , nom i grup . Curs Acadèmic.
+       reproductor de musica, Alejandro Pulido 4t D 2017-2018.
     </description>
 
     <author href="https://numancia.cat/intranet" email="elteucorrreu@iesnumancia.cat">
